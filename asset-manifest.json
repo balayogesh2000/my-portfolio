@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6217d213.chunk.css",
+    "main.js": "/static/js/main.cdffa56a.chunk.js",
+    "main.js.map": "/static/js/main.cdffa56a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3c43cf27.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3c43cf27.js.map",
+    "static/js/2.1d90d80a.chunk.js": "/static/js/2.1d90d80a.chunk.js",
+    "static/js/2.1d90d80a.chunk.js.map": "/static/js/2.1d90d80a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.234401a243398d0a6d00d3c4f46f3240.js": "/precache-manifest.234401a243398d0a6d00d3c4f46f3240.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6217d213.chunk.css.map": "/static/css/main.6217d213.chunk.css.map",
+    "static/js/2.1d90d80a.chunk.js.LICENSE.txt": "/static/js/2.1d90d80a.chunk.js.LICENSE.txt",
+    "static/media/annotation.svg": "/static/media/annotation.f76169ba.svg",
+    "static/media/coder.png": "/static/media/coder.e6aabea1.png",
+    "static/media/ecomm.JPG": "/static/media/ecomm.60fc139e.JPG",
+    "static/media/feeling_proud.svg": "/static/media/feeling_proud.159ae1c5.svg",
+    "static/media/maze.JPG": "/static/media/maze.8b7dd047.JPG",
+    "static/media/movieFight.JPG": "/static/media/movieFight.c6f811a8.JPG",
+    "static/media/Background.module.css": "/static/media/showcase.e2a91467.jpg",
+    "static/media/stepping_up.svg": "/static/media/stepping_up.76c00351.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c43cf27.js",
+    "static/js/2.1d90d80a.chunk.js",
+    "static/css/main.6217d213.chunk.css",
+    "static/js/main.cdffa56a.chunk.js"
+  ]
+}
